@@ -1,0 +1,15 @@
+{
+  "name": "modern-photoshop",
+  "version": "1.0.0",
+  "description": "A modern rewrite of Photoshop v1.0 using Electron and Swift",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
